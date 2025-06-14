@@ -1,0 +1,8 @@
+# Paths to training and validation image directories
+train: /path/to/train/here
+
+# Number of classes
+nc: 3
+
+# Class names
+names: ['plane', 'car', 'ship']
